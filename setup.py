@@ -11,9 +11,9 @@ if sys.platform == "win32":
     base = "Win32GUI"
 
 setup(
-    name="CALCULADORA",
-    version="0.1",
-    description="CALCULADORA",
-    options={"build_exe": build_exe_options},
-    executables=[Executable("calculadora.py", base=base)]
+    name = "CALCULADORA",
+    version = "0.1",
+    description = "CALCULADORA",
+    options = {"build_exe": build_exe_options},
+    executables = [Executable("calculadora.py", base = base)]
 )
