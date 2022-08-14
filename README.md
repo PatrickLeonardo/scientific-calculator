@@ -15,7 +15,7 @@ with more than 60 buttons, the calculator was made with the purpose of studies a
 <hr>
 
 ## - Main page
-![image](https://user-images.githubusercontent.com/94506155/174908293-22dfa81e-a01d-4b88-858c-3238f9cb76dc.png)
+![image](https://user-images.githubusercontent.com/94506155/184556338-461f188d-0b65-4dc2-a8bf-88306c56798e.png)
 
 - simple use with executavel file
 - with more then nine pages for help
