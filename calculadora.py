@@ -6,7 +6,7 @@ from path.help import *
 
 janela = Tk() # janela
 janela.geometry("780x440") # tamanho da janela
-janela.title('CALCULADORA') # titulo
+janela.title('CALCULADORA')
 janela.config(background = '#404040')
 expressao1 = Label(janela, text = "         ", background = '#404040')
 expressao1.grid(column = 0, row = 0, padx = 10, pady = 10)
