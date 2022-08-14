@@ -15,7 +15,7 @@ def help1():
     helptab1.geometry("540x600")
     helptab1.title("HELP-TAB (1 de 9)")
     helptab1.config(background = "#404040")
-    texto = Label(helptab1, text= "Sistema De Ajuda", background = "#404040")
+    texto = Label(helptab1, text= "Sistema de Ajuda", background = "#404040")
     texto.grid(column = 0, row = 0, padx = 105, pady = 25)
     
     texto1 = "                                                                                                       "
